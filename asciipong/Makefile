@@ -1,7 +1,7 @@
 PROG=pong
 
 # add new sources here
-SRCS=pong.c utils.c
+SRCS=asciitennis.c utils.c
 
 OBJS=${SRCS:.c=.o}
 

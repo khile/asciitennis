@@ -1,5 +1,3 @@
-/*  $Id: tools.h,v 1.10 2012-04-12 05:15:42 whoru Exp $  */
-
 #ifndef TOOLS_H
 #define TOOLS_H
 

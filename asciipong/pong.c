@@ -1,5 +1,3 @@
-/*  $Id: pong.c,v 1.15 2012-04-12 05:32:12 whoru Exp $  */
-
 #include "tools.h"
 
 int

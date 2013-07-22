@@ -1,5 +1,3 @@
-#   $Id: Makefile,v 1.6 2012-04-10 19:14:39 whoru Exp $
-
 PROG=pong
 
 # add new sources here

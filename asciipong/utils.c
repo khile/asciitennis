@@ -1,5 +1,3 @@
-/*  $Id: utils.c,v 1.14 2012-04-21 18:22:35 whoru Exp $  */
-
 #include "tools.h"
 
 

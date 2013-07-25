@@ -1,4 +1,4 @@
-PROG=pong
+PROG=asciitennis
 
 # add new sources here
 SRCS=asciitennis.c utils.c
@@ -18,7 +18,5 @@ clean:
 	rm -vf ${CLEAN}
 
 # dependency lis
-pong.c: tools.h
+asciitennis.c: tools.h
 utils.c: tools.h
-kbhit.c: kbhit.h
-
